@@ -1,2 +1,2 @@
-test ...
+test ...\n
 JSON FORMAT TEST 
